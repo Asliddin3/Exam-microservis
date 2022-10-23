@@ -10,3 +10,6 @@
 [submodule "protos"]
 	path = protos
 	url = git@github.com:Asliddin3/protos.git
+[submodule "exam-api-gateway"]
+	path = exam-api-gateway
+	url = git@github.com:Asliddin3/exam-api-gateway.git
